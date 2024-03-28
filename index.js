@@ -30,6 +30,7 @@ const author = `
 * Usage: node index.js
 * Enjoy the game!
 * Want to chart with the author main me "abdulzziwa007@outlook.com"
+* Thank you
 **********************************************************************/`;
 const loseArt = `
 HH  HH  EEEEE  LL      AAAA    AAAA   SSSS
