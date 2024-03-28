@@ -21,6 +21,15 @@ WWW      WWW  EE     LL      CC       OO   OO  MM  M  M  MM  EE     !!!
 W         WW  EEEEE  LLLLLL   CCCCC    OOOOO   MM   MM   MM  EEEEE  !!!
 `;
 
+const author = `
+/*********************************************************************
+* Author: Abdul G Zziwa
+* Date: 28/03/2024
+* Description: Treasure Hunt Game
+* Version: 1.0.0
+* Usage: node index.js
+* Enjoy the game!
+**********************************************************************/`;
 const loseArt = `
 HH  HH  EEEEE  LL      AAAA    AAAA   SSSS
 HH  HH  EE     LL     AA  AA  AA  AA  SS
@@ -28,7 +37,7 @@ HHHHHH  EEEE   LL     AAAAAA  AAAAAA  SSSS
 HH  HH  EE     LL     AA  AA  AA  AA    SS
 HH  HH  EEEEE  LLLLL  AA  AA  AA  AA  SSSS
 `;
-
+console.log(author);
 console.log(welcomeArt);
 console.log("Welcome to the treasure hunt game!\n");
 
