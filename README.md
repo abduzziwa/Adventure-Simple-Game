@@ -3,7 +3,7 @@
 
 
 
-Parsing/Explanation
+Parsing/Explanation:
       Hey there! So, I've got this cool piece of code here that I want to walk you through. It's for a text-based treasure hunt game, and it's written in JavaScript. Let's dive in!
 
 First off, we've got some imports and variable declarations. We're using the readline module to handle input from the command line, and inquirer for interactive prompts. Then, there are these awesome ASCII art pieces for visual effects. Pretty neat, right?
