@@ -1,4 +1,5 @@
 # Adventure-Simple-Game
+######################################################################################################################################################################################################
 Simpe school project
 Parsing/Explanation
       Hey there! So, I've got this cool piece of code here that I want to walk you through. It's for a text-based treasure hunt game, and it's written in JavaScript. Let's dive in!
